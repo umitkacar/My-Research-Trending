@@ -3,7 +3,7 @@ My Research Trending (Journals, conference paper, toolbox, library, magazine, ap
 
 ## TOP TRENDING
 
-*DETECTRON-2
+### DETECTRON-2
 
 https://www.youtube.com/watch?v=egs0XN-xjA0
 
