@@ -7,6 +7,10 @@ My Research Trending (Journals, conference paper, toolbox, library, magazine, ap
 
 https://www.youtube.com/watch?v=egs0XN-xjA0
 
+https://detectron2.readthedocs.io/
+
+https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
+
 #### EFFICIENTNET (NoisyStudent - AdvProp)
 
 https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
