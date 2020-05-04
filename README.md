@@ -23,7 +23,7 @@ https://github.com/AlexeyAB/darknet
 
 ## Trending
 
-#### EXACT
+#### EXACT - A collaboration toolset for algorithm-aidedannotation of almost everything
 
 https://arxiv.org/pdf/2004.14595v1.pdf
 
