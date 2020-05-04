@@ -1,5 +1,5 @@
 # My-Research-Trending
-My Research Trending (Journals, conference paper, codes etc.)
+Journals, Conference Paper, Magazine, Codes etc.)
 
 ## GREATEST
 
