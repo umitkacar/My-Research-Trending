@@ -35,6 +35,10 @@ https://arxiv.org/pdf/2004.14595v1.pdf
 
 https://github.com/ChristianMarzahl/Exact
 
+#### Learning Rate Schedules
+
+https://huggingface.co/transformers/main_classes/optimizer_schedules.html
+
 ## LASTEST
 
 #### AMC-Loss:Angular Margin Contrastive Loss for Improved Explainability inImage Classification
