@@ -7,9 +7,11 @@ My Research Trending (Journals, conference paper, toolbox, library, magazine, ap
 
 https://www.youtube.com/watch?v=egs0XN-xjA0
 
-#### EFFICIENTNET (NOISY STUDENT)
+#### EFFICIENTNET (NoisyStudent - AdvProp)
 
 https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+
+https://arxiv.org/abs/1905.11946
 
 https://arxiv.org/abs/1911.04252
 
