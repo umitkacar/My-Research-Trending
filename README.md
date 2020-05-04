@@ -45,6 +45,10 @@ https://huggingface.co/transformers/main_classes/optimizer_schedules.html
 
 https://arxiv.org/pdf/2004.09805.pdf
 
+#### Identity Document to Selfie Face Matching Across Adolescence
+
+https://arxiv.org/pdf/1912.10021.pdf
+
 ## ARCHIEVE
 
 
