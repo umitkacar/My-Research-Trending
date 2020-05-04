@@ -1,7 +1,7 @@
 # My-Research-Trending
 My Research Trending (Journals, conference paper, toolbox, library, magazine, application etc.)
 
-## Greatest
+## GREATEST
 
 #### DETECTRON-2
 
@@ -21,7 +21,7 @@ https://arxiv.org/pdf/2004.10934v1.pdf
 
 https://github.com/AlexeyAB/darknet
 
-## Trending
+## TRENDING
 
 #### EXACT - A collaboration toolset for algorithm-aidedannotation of almost everything
 
