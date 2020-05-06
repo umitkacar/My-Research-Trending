@@ -15,6 +15,8 @@ https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
 
 https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
 
+https://github.com/lukemelas/EfficientNet-PyTorch
+
 https://arxiv.org/abs/1905.11946
 
 https://arxiv.org/abs/1911.04252
