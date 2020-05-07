@@ -43,6 +43,12 @@ https://huggingface.co/transformers/main_classes/optimizer_schedules.html
 
 ## LASTEST
 
+#### Video Face Manipulation Detection Through Ensemble of CNNs
+
+https://arxiv.org/abs/2004.07676
+
+https://github.com/polimi-ispl/icpr2020dfdc
+
 #### AMC-Loss:Angular Margin Contrastive Loss for Improved Explainability inImage Classification
 
 https://arxiv.org/pdf/2004.09805.pdf
