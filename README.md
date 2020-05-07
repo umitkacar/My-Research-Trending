@@ -1,4 +1,4 @@
-# My-Research-Trending
+# Research-Trending
 Journals, Conference Paper, Magazine, Codes etc.
 
 ## GREATEST
