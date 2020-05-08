@@ -41,6 +41,10 @@ https://github.com/ChristianMarzahl/Exact
 
 https://huggingface.co/transformers/main_classes/optimizer_schedules.html
 
+#### UNDERSTANDING LOSS FUNCTION
+
+https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
 ## LASTEST
 
 #### Video Face Manipulation Detection Through Ensemble of CNNs
