@@ -41,7 +41,7 @@ https://github.com/ChristianMarzahl/Exact
 
 https://huggingface.co/transformers/main_classes/optimizer_schedules.html
 
-#### UNDERSTANDING LOSS FUNCTION
+#### Understanding Loss Function
 
 https://gombru.github.io/2018/05/23/cross_entropy_loss/
 
