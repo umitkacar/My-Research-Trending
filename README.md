@@ -45,6 +45,8 @@ https://huggingface.co/transformers/main_classes/optimizer_schedules.html
 
 https://gombru.github.io/2018/05/23/cross_entropy_loss/
 
+https://medium.com/udacity-pytorch-challengers/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7
+
 ## LASTEST
 
 #### Video Face Manipulation Detection Through Ensemble of CNNs
