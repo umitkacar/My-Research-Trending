@@ -65,4 +65,10 @@ https://arxiv.org/pdf/1912.10021.pdf
 
 ## ARCHIEVE
 
+#### TP-GAN
+
+https://github.com/HRLTY/TP-GAN
+
+https://arxiv.org/pdf/1704.04086.pdf
+
 
