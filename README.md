@@ -49,6 +49,12 @@ https://medium.com/udacity-pytorch-challengers/a-brief-overview-of-loss-function
 
 ## LASTEST
 
+#### Unpaired Learning of Deep Image Denoising
+
+http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490341.pdf
+
+https://github.com/XHWXD/DBSN
+
 #### Video Face Manipulation Detection Through Ensemble of CNNs
 
 https://arxiv.org/abs/2004.07676
