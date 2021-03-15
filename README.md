@@ -1,6 +1,14 @@
 # Research-Trending
 Journals, Conference Paper, Magazine, Codes etc.
 
+## FACE ANTI-SPOOFING
+
+CelebA-Spoof Challenge 2020 on Face Anti-Spoofing: Methods and Results
+
+https://arxiv.org/pdf/2102.12642.pdf
+
+https://github.com/Davidzhangyuanhan/CelebA-Spoof
+
 ## GREATEST
 
 #### DETECTRON-2
